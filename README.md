@@ -1,2 +1,2 @@
 # Gamuha
-Game fine
+Game fine // chego nada
